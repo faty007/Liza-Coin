@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Dmitriy
 - 👀 Our social project with CashPay marketing goals
-- 🌐 Our token Liza Coin (LZC) BEP-20
+- 🌐 Our token Liza Coin (BEP-20)
+    Symbol: LZC
+    Total Supply: 100,000 LZC
+    Bscscan: 0xA6550996403407481f2748a793aE40dA3b369F6d
 - 💞️ We are ready to collaborate and help partners
 - 📫 You can contact me in TG @komfaty
 - 🔰 https://en.tcpcoins.net
