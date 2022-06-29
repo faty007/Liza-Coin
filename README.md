@@ -18,6 +18,8 @@
 - 4️⃣ https://discord.com/invite/EWqqBu4
 - 5️⃣ https://linkedin.com/in/CashPay
 
+⚒ We are developing all the time and we invite you to develop with us. Meet and become a part of our ecosystem ⚒
+
 <!---
 faty007/faty007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
