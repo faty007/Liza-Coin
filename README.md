@@ -1,3 +1,6 @@
+![Малый баннер](https://user-images.githubusercontent.com/17094436/176417107-131412c1-250c-47d0-a0a8-892eb70752bb.png)
+
+
 - 👋 Hi, I’m Dmitriy
 - 👀 Our social project with CashPay marketing goals
 - ®️ We offer marketing services to partners
