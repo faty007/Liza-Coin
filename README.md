@@ -14,6 +14,8 @@
 - 1️⃣ https://twitter.com/CashPay13
 - 2️⃣ https://t.me/fatygroup
 - 3️⃣ https://www.facebook.com/TCashPay
+- 4️⃣ https://discord.com/invite/EWqqBu4
+- 5️⃣ https://linkedin.com/in/CashPay
 
 <!---
 faty007/faty007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
