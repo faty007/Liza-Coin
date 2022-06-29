@@ -9,7 +9,7 @@
 - 💠 KYC - [Auditrate.tech](https://auditrate.tech/certificate/certificate_Liza_Coin.html)
 - 💠 Audit - coming soon
 - 💠 Whitepaper - [whitepaper](https://tcpcoins.net/whitepaper)
-- 📫 You can contact me in TG @komfaty
+- 📫 You can contact me in TG [@komfaty](https://t.me/komfaty) & Email faty@tcpcoins.net
 - 🔰 https://en.tcpcoins.net
 - 1️⃣ https://twitter.com/CashPay13
 - 2️⃣ https://t.me/fatygroup
