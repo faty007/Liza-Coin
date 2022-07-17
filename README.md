@@ -1,4 +1,4 @@
-![Малый баннер](https://user-images.githubusercontent.com/17094436/176417107-131412c1-250c-47d0-a0a8-892eb70752bb.png)
+![Малый баннер](https://en.tcpcoins.net/__scale/uploads/s/l/4/j/l4j8wtlqendh/img/full_C0bsoLnG.png?quality=85&width=728&webp=1)
 
 
 - 👋 Hi, I’m Dmitriy
@@ -10,7 +10,7 @@
 - ✅ Bscscan: [0xA6550996403407481f2748a793aE40dA3b369F6d](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💞️ We are ready to collaborate and help partners
 - 💠 Verification - [Bscscan](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
-- 💠 KYC - [Auditrate.tech](https://auditrate.tech/certificate/certificate_Liza_Coin.html)
+- 💠 KYC - [AuditrateTech](https://en.tcpcoins.net/uploads/s/l/4/j/l4j8wtlqendh/file/ZgeFYiAP.pdf?preview=1)
 - 💠 Audit - coming soon
 - 💠 Whitepaper - [whitepaper](https://tcpcoins.net/whitepaper)
 - 📫 You can contact me in TG [@komfaty](https://t.me/komfaty) & Email faty@tcpcoins.net
