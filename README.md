@@ -21,7 +21,7 @@
 - 4️⃣ https://discord.com/invite/EWqqBu4
 - 5️⃣ https://linkedin.com/in/CashPay
 
-⚒ We are developing all the time and we invite you to develop with us. Meet and become a part of our ecosystem ⚒
+⚒ Liza Coin is a metamarketing company that promotes crypto projects and specializes in them around the world, while the company's main focus is on creating strategies based on cooperation and promotion in the field of blockchain on Twitter, Facebook, Linkedin, Discord, Weibo, Telegram, YouTube, etc. ⚒
 
 <!---
 faty007/faty007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
