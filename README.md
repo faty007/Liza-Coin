@@ -7,7 +7,7 @@
 - 🌐 Our token Liza Coin (BEP-20)
 - ✅ Symbol: LZC
 - ✅ Total Supply: 100,000 LZC
-- ✅ Bscscan: [0xA6550996403407481f2748a793aE40dA3b369F6d](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
+- ✅ Contract: [0xA6550996403407481f2748a793aE40dA3b369F6d](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💞️ We are ready to collaborate and help partners
 - 💠 Verification - [Bscscan](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💠 KYC - [AuditrateTech](https://en.tcpcoins.net/uploads/s/l/4/j/l4j8wtlqendh/file/ZgeFYiAP.pdf?preview=1)
