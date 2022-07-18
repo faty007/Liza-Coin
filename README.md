@@ -12,7 +12,7 @@
 - 💠 Verification - [Bscscan](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💠 KYC - [AuditrateTech](https://en.tcpcoins.net/uploads/s/l/4/j/l4j8wtlqendh/file/ZgeFYiAP.pdf?preview=1)
 - 💠 Audit - coming soon
-- 💠 Whitepaper - [whitepaper](https://tcpcoins.net/whitepaper)
+- 💠 Whitepaper - [whitepaper](https://en.tcpcoins.net/whitepaper)
 - 📫 You can contact me in TG [@komfaty](https://t.me/komfaty) & Email faty@tcpcoins.net
 - 🔰 https://en.tcpcoins.net
 - 1️⃣ https://twitter.com/CashPay13
