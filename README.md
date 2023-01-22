@@ -22,7 +22,7 @@
 - 🌐 https://launchbar.pro
 - 👆 To connect to the platform, use the МетаМаск latch...
 
-I--nformation resources--
+- Information resources -
 - 🇷🇺 https://tcpcoins.net
 - 🇬🇧 https://en.tcpcoins.net
 - 1️⃣ https://twitter.com/CashPay13
