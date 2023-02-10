@@ -17,7 +17,7 @@
 - 🔉 New WEB3 platform!!! 🚀
 - 🔰 CashPay launched a new automated WEB3 platform LaunchBar using $LZC token.
 - ➡️ There is a referral system
-- 💲 Buying tokens $LZC for BNB
+- 💲 Buying tokens $LZC for $BNB
 - ☑️ Voting, etc.
 - 🌐 https://launchbar.pro
 - 👆 To connect to the platform, use the МетаМаск latch...
@@ -33,9 +33,10 @@
 - 5️⃣ https://linkedin.com/in/CashPay
 - 6️⃣ https://medium.com/@cashpay
 
-- 💎 Liza Coin is a metamarketing company that promotes crypto projects and specializes in them around the world, while the company's main focus is on creating strategies based on cooperation and promotion in the field of blockchain on Twitter, Facebook, Linkedin, Discord, Weibo, Telegram, YouTube, etc. 
-- ⚒ CashPay is a MetaMarketing platform with its own Liza Coin meme token ($LZC).
-The goal of the project is to unite Influencers, promoters, marketing companies and investors into a single MetMarket ecosystem with global marketing services using $LZC token as payment for services, distribution of bonuses, receiving investments, etc. The $LZC token itself is essentially a universal financial instrument that can be used for other purposes, which is a feature of the $LZC token and the project. At the same time, the launch of the standalone V2 platform will only increase the influence of the project's community and token holders and will in many ways be different from other projects in the cryptocurrency markets that have no analogues in the crypto world.
+- 💎 Liza Coin token is a universal financial instrument that is used for investments, holdings, payments for paid services on the platform and has a fixed issue.
+- ⚒ LaunchBar® is a WEB 3.0 marketplace platform for influencers, promoters, and can be used by any user, project and coin owner, investor, holder, etc. 
+A radically decentralized ecosystem that fits any brand and automates its advertising campaigns in minutes. Profitable in price, profitable in time. Convenient personal account.
+LaunchBar® WEB 3.0 interface allows you to run fully automated ad campaigns using AI, machine learning and blockchain - technology, without modification, as well as listing and voting cryptocurrencies - research, find growing cryptocurrencies. Track the latest NFT, MEME, DEFI and other coins.
 
 <!---
 faty007/faty007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
