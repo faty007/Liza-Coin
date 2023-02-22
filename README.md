@@ -28,10 +28,8 @@
 - 1️⃣ https://twitter.com/CashPay13
 - 2️⃣ https://t.me/fatygroup
 - 2️⃣ https://t.me/metamarketnews
-- 3️⃣ https://www.instagram.com/tcashpay
-- 4️⃣ https://discord.com/invite/EWqqBu4
-- 5️⃣ https://linkedin.com/in/CashPay
-- 6️⃣ https://medium.com/@cashpay
+- 3️⃣ https://discord.com/invite/EWqqBu4
+- 4️⃣ https://medium.com/@cashpay
 
 - 💎 Liza Coin token is a universal financial instrument that is used for investments, holdings, payments for paid services on the platform and has a fixed issue.
 - ⚒ LaunchBar® is a WEB 3.0 marketplace platform for influencers, promoters, and can be used by any user, project and coin owner, investor, holder, etc. 
