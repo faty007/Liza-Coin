@@ -14,13 +14,13 @@
 - 💠 Whitepaper - [whitepaper](https://en.tcpcoins.net/whitepaper)
 - 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email faty@tcpcoins.net
 
-- 🔉 New WEB3 platform!!! 🚀
-- 🔰 CashPay launched a new automated WEB3 platform LaunchBar using $LZC token.
+- 🔉 LaunchBar WEB 3.0 platform 🚀🚀🚀
+- 💎 Token LizaCoin & LaunchBar 💎
 - ➡️ There is a referral system
 - 💲 Buying tokens $LZC for $BNB
 - ☑️ Voting, etc.
 - 🌐 https://launchbar.pro
-- 👆 To connect to the platform, use the МетаМаск latch...
+- 👆 To connect to the platform, use the 🦊 МетаМаск latch...
 
 - Information resources -
 - 🇷🇺 https://tcpcoins.net
@@ -31,7 +31,7 @@
 - 3️⃣ https://discord.com/invite/EWqqBu4
 - 4️⃣ https://medium.com/@cashpay
 
-- 💎 Liza Coin token is a universal financial instrument that is used for investments, holdings, payments for paid services on the platform and has a fixed issue.
+- 💎 LizaCoin token is a universal financial instrument that is used for investments, holdings, payments for paid services on the platform and has a fixed issue.
 - ⚒ LaunchBar® is a WEB 3.0 marketplace platform for influencers, promoters, and can be used by any user, project and coin owner, investor, holder, etc. 
 A radically decentralized ecosystem that fits any brand and automates its advertising campaigns in minutes. Profitable in price, profitable in time. Convenient personal account.
 LaunchBar® WEB 3.0 interface allows you to run fully automated ad campaigns using AI, machine learning and blockchain - technology, without modification, as well as listing and voting cryptocurrencies - research, find growing cryptocurrencies. Track the latest NFT, MEME, DEFI and other coins.
