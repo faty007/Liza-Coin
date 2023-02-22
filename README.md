@@ -1,7 +1,7 @@
 ![Малый баннер](https://en.tcpcoins.net/__scale/uploads/s/l/4/j/l4j8wtlqendh/img/full_C0bsoLnG.png?quality=85&width=728&webp=1)
 
 
-- 👋 Hi, I’m CEO
+- 👋 Hi, I’m Founder & CEO
 - 👀 Our social project with CashPay marketing goals
 - ®️ We offer marketing services to partners
 - 🌐 Our token Liza Coin (BEP-20)
@@ -16,9 +16,16 @@
 
 - 🔉 LaunchBar WEB 3.0 platform 🚀🚀🚀
 - 💎 Token LizaCoin & LaunchBar 💎
-- ➡️ There is a referral system
+- ⚒ Add Coins (free)
+- 👍 Coin Voting, Promoted, Portfolio ...
+- 👬 Affiliate program
 - 💲 Buying tokens $LZC for $BNB
-- ☑️ Voting, etc.
+- 💰 $LZC Withdraw
+- 💫 Surfing
+- 🔥 Staking
+- 🏆 Hippodrome
+- 🎁 Launch+
+
 - 🌐 https://launchbar.pro
 - 👆 To connect to the platform, use the 🦊 МетаМаск latch...
 
