@@ -11,7 +11,7 @@
 - 💞️ We are ready to collaborate and help partners
 - 💠 KYC - [AuditrateTech](https://en.tcpcoins.net/uploads/s/l/4/j/l4j8wtlqendh/file/ZgeFYiAP.pdf?preview=1)
 - 💠 Audit - [AuditrateTech](https://github.com/faty007/Audit)
-- 💠 Whitepaper - [whitepaper](https://en.tcpcoins.net/whitepaper)
+- 💠 Whitepaper - [whitepaper](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/)
 - 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email faty@tcpcoins.net
 
 - 🔉 LaunchBar WEB 3.0 platform 🚀🚀🚀
