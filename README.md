@@ -39,9 +39,9 @@
 - 4️⃣ https://medium.com/@cashpay
 
 - 💎 LizaCoin token is a universal financial instrument that is used for investments, holdings, payments for paid services on the platform and has a fixed issue.
-- ⚒ LaunchBar® is a WEB 3.0 marketplace platform for influencers, promoters, and can be used by any user, project and coin owner, investor, holder, etc. 
+- ⚒ LaunchBar is a WEB 3.0 marketplace platform for influencers, promoters, and can be used by any user, project and coin owner, investor, holder, etc. 
 A radically decentralized ecosystem that fits any brand and automates its advertising campaigns in minutes. Profitable in price, profitable in time. Convenient personal account.
-LaunchBar® WEB 3.0 interface allows you to run fully automated ad campaigns using AI, machine learning and blockchain - technology, without modification, as well as listing and voting cryptocurrencies - research, find growing cryptocurrencies. Track the latest NFT, MEME, DEFI and other coins.
+LaunchBar WEB 3.0 interface allows you to run fully automated ad campaigns using AI, machine learning and blockchain - technology, without modification, as well as listing and voting cryptocurrencies - research, find growing cryptocurrencies. Track the latest NFT, MEME, DEFI and other coins.
 
 <!---
 faty007/faty007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
