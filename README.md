@@ -27,13 +27,13 @@
 - 🎁 LaunchPad
 - 👆 To connect to the platform, use the 🦊 МетаМаск latch...
 
-- 🌐 https://launchbar.pro
 - 💠 Gitbook CEO - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 - 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
 
 - Information resources -
 - 🇷🇺 https://tcpcoins.net
 - 🇬🇧 https://en.tcpcoins.net
+- 🌐 https://launchbar.pro
 - 1️⃣ https://twitter.com/CashPay13
 - 2️⃣ https://t.me/fatygroup
 - 2️⃣ https://t.me/metamarketnews
