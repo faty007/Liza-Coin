@@ -19,7 +19,7 @@
 - 👍 Coin Voting, Rating, Promoted, Portfolio (free)...
 - 👬 Affiliate program
 - 💲 Buying tokens $LZC for $BNB
-- 💰 $LZC Withdraw
+- ⏳ $LZC Withdraw
 - 💫 Surfing
 - 🔥 Staking
 - 💵 InvestBox
