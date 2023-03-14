@@ -28,8 +28,8 @@
 - 👆 To connect to the platform, use the 🦊 МетаМаск latch...
 
 - 🌐 https://launchbar.pro
-- 💠 Gitbook CEO - [DOCS CEO](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
-- - 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
+- 💠 Gitbook CEO - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
+- 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
 
 - Information resources -
 - 🇷🇺 https://tcpcoins.net
