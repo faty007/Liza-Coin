@@ -17,7 +17,7 @@
 - 🔉 LaunchBar WEB 3.0 platform 🚀🚀🚀
 - 💎 Token LizaCoin & LaunchBar 💎
 - ⚒ Add Coins (free)
-- 👍 Coin Voting, Promoted, Portfolio ...
+- 👍 Coin Voting, Promoted, Portfolio (free)...
 - 👬 Affiliate program
 - 💲 Buying tokens $LZC for $BNB
 - 💰 $LZC Withdraw
@@ -25,10 +25,10 @@
 - 🔥 Staking
 - 💵 InvestBox
 - 🏆 Hippodrome
-- 🎁 Launch+
+- 🎁 LaunchPad
 
 - 🌐 https://launchbar.pro
-- 💠 Gitbook CEO - [Gitbook CEO](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
+- 💠 Gitbook CEO - [DOCS CEO](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 - 👆 To connect to the platform, use the 🦊 МетаМаск latch...
 
 - Information resources -
