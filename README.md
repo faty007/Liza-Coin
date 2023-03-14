@@ -23,10 +23,12 @@
 - 💰 $LZC Withdraw
 - 💫 Surfing
 - 🔥 Staking
+- 💵 InvestBox
 - 🏆 Hippodrome
 - 🎁 Launch+
 
 - 🌐 https://launchbar.pro
+- 💠 Gitbook CEO - [Gitbook CEO](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 - 👆 To connect to the platform, use the 🦊 МетаМаск latch...
 
 - Information resources -
