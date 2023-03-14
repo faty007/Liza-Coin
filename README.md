@@ -16,7 +16,7 @@
 - 🔉 LaunchBar WEB 3.0 platform 🚀🚀🚀
 - 💎 Token LizaCoin 💎
 - ⚒ Add Coins (free)
-- 👍 Coin Voting, Promoted, Portfolio (free)...
+- 👍 Coin Voting, Rating, Promoted, Portfolio (free)...
 - 👬 Affiliate program
 - 💲 Buying tokens $LZC for $BNB
 - 💰 $LZC Withdraw
