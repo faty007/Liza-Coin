@@ -12,7 +12,6 @@
 - 💠 KYC - [AuditrateTech](https://en.tcpcoins.net/uploads/s/l/4/j/l4j8wtlqendh/file/ZgeFYiAP.pdf?preview=1)
 - 💠 Audit - [AuditrateTech](https://github.com/faty007/Audit)
 - 💠 Whitepaper - [whitepaper](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/)
-- 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email faty@tcpcoins.net
 
 - 🔉 LaunchBar WEB 3.0 platform 🚀🚀🚀
 - 💎 Token LizaCoin 💎
@@ -26,10 +25,11 @@
 - 💵 InvestBox
 - 🏆 Hippodrome
 - 🎁 LaunchPad
+- 👆 To connect to the platform, use the 🦊 МетаМаск latch...
 
 - 🌐 https://launchbar.pro
 - 💠 Gitbook CEO - [DOCS CEO](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
-- 👆 To connect to the platform, use the 🦊 МетаМаск latch...
+- - 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
 
 - Information resources -
 - 🇷🇺 https://tcpcoins.net
