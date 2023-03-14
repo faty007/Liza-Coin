@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Founder & CEO
-- 👀 Our social project with CashPay marketing goals
+- 👀 Our project with marketing purposes and not only...
 - ®️ We offer marketing services to partners
 - 🌐 Our token LizaCoin (BEP-20)
 - ✅ Symbol: LZC
