@@ -16,8 +16,8 @@
 
 - 🔉 LaunchBar WEB 3.0 platform 🚀🚀🚀
 - 💎 Token LizaCoin 💎
-- ⚒ Add Coins 🆓
-- 👍 Coin Voting, Promoted, Portfolio 🆓...
+- ⚒ Add Coins (free)
+- 👍 Coin Voting, Promoted, Portfolio (free)...
 - 👬 Affiliate program
 - 💲 Buying tokens $LZC for $BNB
 - 💰 $LZC Withdraw
@@ -44,7 +44,7 @@
 - ⚒ LaunchBar is a WEB 3.0 marketplace platform for influencers, promoters, and can be used by any user, project and coin owner, investor, holder, etc. 
 A radically decentralized ecosystem that fits any brand and automates its advertising campaigns in minutes. Profitable in price, profitable in time. Convenient personal account.
 LaunchBar WEB 3.0 interface allows you to run fully automated ad campaigns using AI, machine learning and blockchain - technology, without modification, as well as listing and voting cryptocurrencies - research, find growing cryptocurrencies. Track the latest NFT, MEME, DEFI, GameFi and other coins.
-- 🏦 LizaCoin project is complex and not quick in development, investing in LZC token you get reliable and long-term investment.
+- 💰 LizaCoin project is complex and not quick in development, investing in LZC token you get reliable and long-term investment.
 
 <!---
 faty007/faty007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
