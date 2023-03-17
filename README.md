@@ -24,8 +24,9 @@
 - 🔥 Staking
 - 💵 InvestBox
 - 🏆 Hippodrome
-- 💵 LaunchPad
-- 💵 Incubator
+- ⚠️ LaunchPad
+- ⚠️ Incubator
+- ⚠️ LBar Convert
 - 👆 To connect to the platform, use the 🦊 МетаМаск latch...
 
 - 💠 Gitbook CEO - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
