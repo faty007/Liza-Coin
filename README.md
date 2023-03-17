@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Founder & CEO
 - 👀 Our project with marketing purposes and not only...
 - ®️ We offer marketing services to partners
-- 🌐 Our token LizaCoin (BEP-20)
+- 💎 Our token LizaCoin (BEP-20) 💎
 - ✅ Symbol: LZC
 - ✅ Total Supply: 100,000 LZC
 - ✅ Contract: [0xA6550996403407481f2748a793aE40dA3b369F6d](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
@@ -14,7 +14,6 @@
 - 💠 Whitepaper - [Gitbook](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/)
 
 - 🔉 LaunchBar WEB 3.0 platform 🚀🚀🚀
-- 💎 Token LizaCoin 💎
 - ⚒ Add Coins (free)
 - 👍 Coin Voting, Rating, Promoted, Portfolio (free)...
 - 👬 Affiliate program
