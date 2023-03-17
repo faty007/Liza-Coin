@@ -27,7 +27,7 @@
 - ⚠️ LaunchPad
 - ⚠️ Incubator
 - ⚠️ LBar Convert
-- 👆 To connect to the platform, use the 🦊 МетаМаск latch...
+- 📊 To connect to the platform, use the 🦊 МетаМаск latch...
 
 - 💠 Gitbook CEO - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 - 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
