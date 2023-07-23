@@ -17,11 +17,10 @@
 - ⚒ Add Coins (free)
 - 👍 Coin Voting, Rating, Promoted, Portfolio (free)...
 - 👬 Affiliate program
-- 💲 Buying tokens $LZC for $BNB
-- ⏳ $LZC Withdraw
+- 💲 SWAP tokens $LZC
+- 💵 InvestBox
 - 💫 Surfing
 - 🔥 Staking
-- 💵 InvestBox
 - 🏆 Hippodrome
 - 📊 To connect to the platform, use the 🦊 МетаМаск latch...
 
