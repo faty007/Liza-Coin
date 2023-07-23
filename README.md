@@ -6,16 +6,16 @@
 - ®️ We offer marketing services to partners
 - 💎 Our token LizaCoin (BEP-20) 💎
 - ✅ Symbol: LZC
-- ✅ Total Supply: 100,000 LZC
+- ✅ Total Supply: 100,000
 - ✅ Contract: [0xA6550996403407481f2748a793aE40dA3b369F6d](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💞️ We are ready to collaborate and help partners
 - 💠 KYC - [AuditRateTech](https://en.tcpcoins.net/uploads/s/l/4/j/l4j8wtlqendh/file/ZgeFYiAP.pdf?preview=1)
 - 💠 Audit - [BlockSafu](https://blocksafu.com/project-detail/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💠 Whitepaper - [Gitbook](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/)
 
-- 🔉 LaunchBar WEB 3.0 platform 🚀🚀🚀
+- 🔉 LaunchBar WEB3.0 platform 🚀🚀🚀
 - ⚒ Add Coins (free)
-- 👍 Coin Voting, Rating, Promoted, Portfolio (free)...
+- 👍 Coin Voting, Rating, Promoted, Portfolio...
 - 👬 Affiliate program
 - 💲 SWAP tokens $LZC
 - 💵 InvestBox
@@ -35,12 +35,11 @@
 - 2️⃣ https://t.me/fatygroup
 - 2️⃣ https://t.me/metamarketnews
 - 3️⃣ https://discord.com/invite/EWqqBu4
-- 4️⃣ https://medium.com/@cashpay
 
 - 💎 LizaCoin token is a universal financial instrument that is used for investments, holdings, payments for paid services on the platform and has a fixed issue.
 - ⚒ LaunchBar is a WEB 3.0 marketplace platform for influencers, promoters, and can be used by any user, project and coin owner, investor, holder, etc. 
 A radically decentralized ecosystem that fits any brand and automates its advertising campaigns in minutes. Profitable in price, profitable in time. Convenient personal account.
-LaunchBar WEB 3.0 interface allows you to run fully automated ad campaigns using AI, machine learning and blockchain - technology, without modification, as well as listing and voting cryptocurrencies - research, find growing cryptocurrencies. Track the latest NFT, MEME, DEFI, GameFi and other coins.
+LaunchBar WEB3 interface allows you to run fully automated ad campaigns using AI, machine learning and blockchain - technology, without modification, as well as listing and voting cryptocurrencies - research, find growing cryptocurrencies. Track the latest NFT, MEME, DEFI, GameFi and other coins.
 - 💰 LizaCoin project is complex and not quick in development, investing in LZC token you get reliable and long-term investment.
 
 <!---
