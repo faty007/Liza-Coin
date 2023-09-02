@@ -9,7 +9,7 @@
 - ✅ Total Supply: 100,000
 - ✅ Contract: [0xA6550996403407481f2748a793aE40dA3b369F6d](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💞️ We are ready to collaborate and help partners
-- 💠 KYC - [AuditRateTech](https://en.tcpcoins.net/uploads/s/l/4/j/l4j8wtlqendh/file/ZgeFYiAP.pdf?preview=1)
+- 💠 KYC - [AuditRateTech](https://github.com/faty007/KYC)
 - 💠 Audit - [BlockSafu](https://blocksafu.com/project-detail/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💠 Whitepaper - [Gitbook](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/)
 
