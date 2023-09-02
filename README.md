@@ -17,7 +17,7 @@
 - ⚒ Add Coins (free)
 - 👍 Coin Voting, Rating, Promoted, Portfolio...
 - 👬 Affiliate program
-- 💲 SWAP tokens $LZC
+- 💲 SWAP
 - 💵 InvestBox
 - 💫 Surfing
 - 🔥 Staking
