@@ -18,7 +18,7 @@
 - 👍 Coin Voting, Rating, Promoted, Portfolio...
 - 👬 Affiliate program
 - 💲 SWAP
-- 💵 InvestBox
+- ☂️ Airdrop
 - 💫 Surfing
 - 🔥 Staking
 - 🏆 Hippodrome
