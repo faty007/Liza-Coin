@@ -6,7 +6,7 @@
 - ®️ We offer marketing services to partners
 - 💎 Our token LizaCoin (BEP-20) 💎
 - ✅ Symbol: LZC
-- ✅ Total Supply: 100,000
+- ✅ Total Supply: 100000
 - ✅ Contract: [0xA6550996403407481f2748a793aE40dA3b369F6d](https://bscscan.com/token/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💞️ We are ready to collaborate and help partners
 - 💠 KYC - [AuditRateTech](https://github.com/faty007/KYC)
