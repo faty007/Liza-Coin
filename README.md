@@ -1,6 +1,5 @@
 ![Малый баннер](https://en.tcpcoins.net/__scale/uploads/s/l/4/j/l4j8wtlqendh/img/full_C0bsoLnG.png?quality=85&width=728&webp=1)
 
-
 - 👋 Hi, I’m Founder & CEO
 - 👀 Our project with marketing purposes and not only...
 - ®️ We offer marketing services to partners
