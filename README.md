@@ -17,24 +17,25 @@
 - ⚒ Add Coins (Free)
 - ☂️ Add Airdrop (Free)
 - 💲 Swap - BNB, BUSD, USDT, USDC > LZC
-- 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO -(Soon)
-- 📊 Staking (A) (B - Soon)
+- 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO - (Soon)
+- 📊 Staking LZC (Plan-A), (Plan-B - Soon)
 - 💫 Surfing (Soon)
 - 💫 Video Views (Soon)
 - 🏆 Hippodrome (Soon)
 - 👬 Partner programme
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
-- 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
 
-- Links - Social Networks
+- 🌀 Links - Social Networks
 - 🌐 https://launchbar.pro
 - 🇷🇺 https://tcpcoins.net
 - 🇬🇧 https://en.tcpcoins.net
 - 1️⃣ https://twitter.com/CashPay13
 - 2️⃣ https://t.me/fatygroup
-- 2️⃣ https://t.me/metamarketnews
-- 3️⃣ https://discord.com/invite/EWqqBu4
+- 3️⃣ https://t.me/metamarketnews
+- 4️⃣ https://discord.com/invite/EWqqBu4
+
+- 📫 You can contact me in TG [@tcashpay](https://t.me/komfaty) & Email team@launchbar.pro
 
 - 💎 LZC is a service token of the LaunchBar project and platform. LZC is accepted as payment for marketing, advertising, promotion, etc. services in the LaunchBar terminal and is tightly integrated with all elements of the LizaCoin ecosystem.
 - ⚒ Ranking and voting service for cryptocurrency projects, search for new coins. Explore coins, market data, prices, market cap, liquidity. Learn about popular pre-sale tokens and fair launch tokens. Explore, buy and earn with WEB3 LaunchBar and find your pearl!
