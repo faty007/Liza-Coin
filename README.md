@@ -12,17 +12,20 @@
 - 💠 Audit - [BlockSafu](https://blocksafu.com/audit/0xA6550996403407481f2748a793aE40dA3b369F6d)
 - 💠 Whitepaper - [Gitbook](https://lizacoin.gitbook.io/meet-lizacoin-and-launchbar-1/)
 
-- 🔉 LaunchBar WEB 3.0 platform 🚀
-- 👍 Coin Voting, Rating, Promoted, Portfolio, etc ...
-- ⚒ Add Coins (Free)
-- ☂️ Add Airdrop (Free)
+- 🔉 LaunchBar WEB 3.0 platform 
+- 🚀 Coin Voting, Rating, Promoted, Portfolio, etc ...
+- 💫 Coin, AirDrop, PreSale & Press-Release List
+- ☂️ Add a Coin (Free)
+- ☂️ Add an Airdrop (Free)
+- ☂️ Add a Project Sale (Free)
+- ☂️ Add a Press-Release (Free)
 - 💲 Swap - BNB, BUSD, USDT, USDC > LZC
-- 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO - (Soon)
+- 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO ..
 - 📊 Staking LZC (Plan-A), (Plan-B - Soon)
 - 💫 Surfing (Soon)
 - 🏆 Hippodrome (Soon)
+- 🏆 Dog races (Soon)
 - 👬 Partner programme
-- 💫 Press-Release
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 
