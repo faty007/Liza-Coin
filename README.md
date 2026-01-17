@@ -21,9 +21,10 @@
 - ☂️ Add a Press-Release (Free)
 - 💲 Swap Coin
 - 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO ..
-- 📊 Staking LZC
-- 🏆 Hippodrome PONY (Soon)
+- 📊 Staking LZC {Active}
+- 🎮 Hippodrome PONY {Soon}
 - 👬 Partner programme
+- ✂️ Advertise on our platform!
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 
