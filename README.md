@@ -19,20 +19,16 @@
 - ☂️ Add an Airdrop (Free)
 - ☂️ Add a Project Sale (Free)
 - ☂️ Add a Press-Release (Free)
-- 💲 Swap - BNB, BUSD, USDT, USDC > LZC
+- 💲 Swap Coin
 - 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO ..
-- 📊 Staking LZC (Plan-A), (Plan-B - Soon)
-- 💫 Surfing (Soon)
-- 🏆 Hippodrome (Soon)
-- 🏆 Dog races (Soon)
+- 📊 Staking LZC
+- 🏆 Hippodrome PONY (Soon)
 - 👬 Partner programme
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 
 - 🌀 Links - Social Networks
 - 🌐 https://launchbar.pro
-- 🇷🇺 https://tcpcoins.net
-- 🇬🇧 https://en.tcpcoins.net
 - 1️⃣ https://twitter.com/CashPay13
 - 2️⃣ https://t.me/fatygroup
 - 3️⃣ https://t.me/metamarketnews
