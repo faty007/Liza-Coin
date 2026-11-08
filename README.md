@@ -14,7 +14,7 @@
 
 - 🔉 LaunchBar WEB 3.0 platform 
 - 🚀 Coin Voting, Rating, Promoted, Portfolio, etc ...
-- 💫 Coin, AirDrop, PreSale & Press-Release List
+- 💫 Coin, AirDrop, PreSale, Linkbar & Press-Release List
 - ☂️ Add a Coin {Active}
 - ☂️ Add an Airdrop {Active}
 - ☂️ Add a Project Sale {Active}
