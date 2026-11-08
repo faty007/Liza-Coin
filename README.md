@@ -15,16 +15,17 @@
 - 🔉 LaunchBar WEB 3.0 platform 
 - 🚀 Coin Voting, Rating, Promoted, Portfolio, etc ...
 - 💫 Coin, AirDrop, PreSale & Press-Release List
-- ☂️ Add a Coin (Free)
-- ☂️ Add an Airdrop (Free)
-- ☂️ Add a Project Sale (Free)
-- ☂️ Add a Press-Release (Free)
-- 💲 Swap Coin
-- 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO ..
+- ☂️ Add a Coin {Active}
+- ☂️ Add an Airdrop {Active}
+- ☂️ Add a Project Sale {Active}
+- ☂️ Add a Press-Release {Active}
+- ☂️ Add a Linkbar {Active}
+- 💲 Swap Coin {Active}
+- 🔥 PreSale, ICO, IDO, IEO, INO, ITO, IGO ... {Active}
 - 📊 Staking LZC {Active}
-- 🎮 Hippodrome PONY {Soon}
-- 👬 Partner programme
-- ✂️ Advertise on our platform!
+- 🎮 Hippodrome PONY {Active}
+- 👬 Partner programme {Active}
+- ✂️ Advertise on our platform {Active}
 
 - 💠 Gitbook - [DOCS](https://lizacoin.gitbook.io/launchbar/general/launchbar-getting-started-ceo)
 
