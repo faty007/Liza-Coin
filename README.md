@@ -1,4 +1,4 @@
-![Малый баннер](https://en.tcpcoins.net/__scale/uploads/s/l/4/j/l4j8wtlqendh/img/full_C0bsoLnG.png?quality=85&width=728&webp=1)
+![Малый баннер](https://lizacoin.gitbook.io/launchbar/~gitbook/image?url=https%3A%2F%2F2938152401-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FvfqNUBP6PJMHLS71BTZF%252Fuploads%252Fg0ykIjDY4sOjGcDfd8Dc%252F1-%25201LaunchBar.png%3Falt%3Dmedia%26token%3D2e57db4f-67f8-415f-9a21-2bbda5ce26a9&width=768&dpr=1&quality=100&sign=9f149afb18f365e22ccdb479f9995968&sv=3)
 
 - 👋 Hi, I’m Founder & CEO !!!
 - 👀 Our project with marketing purposes and not only...
